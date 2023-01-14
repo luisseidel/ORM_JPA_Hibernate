@@ -3,7 +3,6 @@ package org.seidelsoft.util;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
-import java.sql.SQLException;
 
 public class HibernateUtil {
 
